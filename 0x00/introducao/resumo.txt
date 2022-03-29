@@ -1,0 +1,8 @@
+A arquitetura monolítica consiste no desenvolvimento de um sistema no qual
+todas as funções estão dentro de uma única aplicação com acesso ao mesmo banco de dados.
+Microsserviços é uma arquitetura de desenvolvimento que baseia-se na construção
+de aplicações independentes que formam uma aplicação completa quando juntas.
+Esta forma de arquitetura geralmente é mais fácil de construir, os serviços são organizados
+em torno de problemas de negócios e aumentam a produtividade e a velocidade.
+Os microsserviços comunicam-se por HTTP, por mensagens ou por comunicação orientada
+a eventos.
