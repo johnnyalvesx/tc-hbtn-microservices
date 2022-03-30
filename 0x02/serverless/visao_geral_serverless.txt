@@ -1,0 +1,34 @@
+O que é Arquitetura Serverless?
+Serverless é uma arquitetura na qual a execução dos códigos é feita através de
+recursos alocados dinamicamente, em termos gerais, não existem um ou mais
+computadores específicos para a execução da aplicação.
+
+O que é Function as a service (FaaS)?
+FaaS (Function-as-a-Service) é um modelo de serverless no qual todos os códigos 
+de uma aplicação são executadas através de funções na nuvem de forma individual.
+
+Quais são os benefícios de usar arquitetura Serverless?
+Alguns dos benefícios de se utilizar arquitetura serverless são: a plataforma
+em nuvem que gerencia os servidores ao invés dos desenvolvedores; não há tempo
+de execução para instalar, manter ou administrar; escalabilidade flexível por
+não ser necessário alterar a infraestrutura do sistema conforme o crescimento.
+
+O que é Cloud Computing (Computação em Nuvem)? E quais são seu benéficios?
+A computação em nuvem é o fornecimento de serviços de computação, 
+como servidores, armazenamento, bancos de dados etc. através da internet para 
+agilizar as inovações, flexibilizar os recursos e proporcionar economia de escalas. 
+Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir 
+os custos operacionais, a executar sua infraestrutura com mais eficiência e a 
+escalonar conforme as necessidades da sua empresa mudam.
+Principais benefícios da computação em nuvem são: custo, velocidade, produtividade, 
+desempenho, confiabilidade e segurança.
+
+Quais são as principais diferença entre Arquitetura Monólitica, Microsserviços e Serverless?
+Na arquitetura monolítica, uma aplicação de software tem diversas funções que estão
+altamente acoplados a um único programa em uma única plataforma. Já na arquitetura de
+microsserviços, as funções são feitas como serviços independentes, possuem baixo 
+acoplamento, e são mais resilientes, o que permite agilidade no desenvolvimento e 
+na manutenção.Com a arquitetura serverless, a aplicação continua funcionando em um 
+servidor, porém o gerenciamento do servidor ficará por conta de um provedor de nuvem. 
+Um desenvolvedor não precisará se preocupar com configurações relacionadas a 
+infraestrutura em que sua aplicação irá funcionar.
